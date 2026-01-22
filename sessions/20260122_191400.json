@@ -1,0 +1,831 @@
+{
+  "name": "20260122_191400",
+  "timestamp": "2026-01-22T19:14:01.271323",
+  "apps": [
+    {
+      "pid": 232,
+      "name": "Registry",
+      "exe": "Registry"
+    },
+    {
+      "pid": 692,
+      "name": "smss.exe",
+      "exe": "C:\\Windows\\System32\\smss.exe"
+    },
+    {
+      "pid": 896,
+      "name": "PresentMonService.exe",
+      "exe": "C:\\Program Files\\WindowsApps\\AppUp.IntelArcSoftware_25.44.2010.0_x64__8j3eq9eme6ctt\\VFS\\ProgramFilesX64\\Intel\\Intel Graphics Software\\PresentMonService.exe"
+    },
+    {
+      "pid": 1832,
+      "name": "LsaIso.exe",
+      "exe": "C:\\Windows\\System32\\LsaIso.exe"
+    },
+    {
+      "pid": 2008,
+      "name": "WUDFHost.exe",
+      "exe": "C:\\Windows\\System32\\WUDFHost.exe"
+    },
+    {
+      "pid": 2044,
+      "name": "fontdrvhost.exe",
+      "exe": "C:\\Windows\\System32\\fontdrvhost.exe"
+    },
+    {
+      "pid": 2132,
+      "name": "WUDFHost.exe",
+      "exe": "C:\\Windows\\System32\\WUDFHost.exe"
+    },
+    {
+      "pid": 2288,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 2300,
+      "name": "WUDFHost.exe",
+      "exe": "C:\\Windows\\System32\\WUDFHost.exe"
+    },
+    {
+      "pid": 2440,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 2464,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 2656,
+      "name": "backgroundTaskHost.exe",
+      "exe": "C:\\Windows\\System32\\backgroundTaskHost.exe"
+    },
+    {
+      "pid": 2768,
+      "name": "WidgetService.exe",
+      "exe": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe"
+    },
+    {
+      "pid": 2812,
+      "name": "SecurityHealthService.exe",
+      "exe": "C:\\Windows\\System32\\SecurityHealthService.exe"
+    },
+    {
+      "pid": 3412,
+      "name": "browserhost.exe",
+      "exe": "C:\\Program Files\\McAfee\\WebAdvisor\\browserhost.exe"
+    },
+    {
+      "pid": 3800,
+      "name": "MemCompression",
+      "exe": "MemCompression"
+    },
+    {
+      "pid": 4496,
+      "name": "spoolsv.exe",
+      "exe": "C:\\Windows\\System32\\spoolsv.exe"
+    },
+    {
+      "pid": 4828,
+      "name": "Dell.TechHub.exe",
+      "exe": "C:\\Program Files\\Dell\\TechHub\\Dell.TechHub.exe"
+    },
+    {
+      "pid": 4852,
+      "name": "jhi_service.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_8a3f88e34f6b8385\\jhi_service.exe"
+    },
+    {
+      "pid": 4868,
+      "name": "RtkAudUService64.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_e54441f6cc56b0cb\\RtkAudUService64.exe"
+    },
+    {
+      "pid": 4888,
+      "name": "WavesSysSvc64.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\wavesapo12de.inf_amd64_f5cc64c07bd9d637\\WavesSysSvc64.exe"
+    },
+    {
+      "pid": 4896,
+      "name": "RtkBtManServ.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\rtkbtfilter.inf_amd64_d23a0a7d9333446c\\RtkBtManServ.exe"
+    },
+    {
+      "pid": 4912,
+      "name": "ipf_uf.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_049e38a37c46edc4\\ipf_uf.exe"
+    },
+    {
+      "pid": 4920,
+      "name": "RstMwService.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iastorvd.inf_amd64_f28d27d12c1c64c5\\RstMwService.exe"
+    },
+    {
+      "pid": 4928,
+      "name": "ipfsvc.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dtt_sw.inf_amd64_8edcf6be1c4ddd78\\ipfsvc.exe"
+    },
+    {
+      "pid": 4956,
+      "name": "SafeExamBrowser.Service.exe",
+      "exe": "C:\\Program Files\\SafeExamBrowser\\Service\\SafeExamBrowser.Service.exe"
+    },
+    {
+      "pid": 4976,
+      "name": "mc-fw-host.exe",
+      "exe": "C:\\Program Files\\McAfee\\wps\\1.35.148.1\\mc-fw-host.exe"
+    },
+    {
+      "pid": 4988,
+      "name": "WavesAudioService.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\wavesapo12de.inf_amd64_f5cc64c07bd9d637\\WavesAudioService.exe"
+    },
+    {
+      "pid": 5036,
+      "name": "WMIRegistrationService.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_2c17521ca0d3f79c\\WMIRegistrationService.exe"
+    },
+    {
+      "pid": 5068,
+      "name": "wslservice.exe",
+      "exe": "C:\\Program Files\\WSL\\wslservice.exe"
+    },
+    {
+      "pid": 5284,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 5432,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 7472,
+      "name": "unsecapp.exe",
+      "exe": "C:\\Windows\\System32\\wbem\\unsecapp.exe"
+    },
+    {
+      "pid": 7712,
+      "name": "sihost.exe",
+      "exe": "C:\\Windows\\System32\\sihost.exe"
+    },
+    {
+      "pid": 8032,
+      "name": "SupportAssistAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\SupportAssistAgent\\bin\\SupportAssistAgent.exe"
+    },
+    {
+      "pid": 8408,
+      "name": "AggregatorHost.exe",
+      "exe": "C:\\Windows\\System32\\AggregatorHost.exe"
+    },
+    {
+      "pid": 8620,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 8752,
+      "name": "NgcIso.exe",
+      "exe": "C:\\Windows\\System32\\NgcIso.exe"
+    },
+    {
+      "pid": 8760,
+      "name": "OfficeClickToRun.exe",
+      "exe": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe"
+    },
+    {
+      "pid": 8988,
+      "name": "RuntimeBroker.exe",
+      "exe": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "pid": 9952,
+      "name": "ms-teams.exe",
+      "exe": "C:\\Program Files\\WindowsApps\\MSTeams_25332.1210.4188.1171_x64__8wekyb3d8bbwe\\ms-teams.exe"
+    },
+    {
+      "pid": 10056,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 11260,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 11356,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 11536,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 11660,
+      "name": "Dell.TechHub.Instrumentation.UserProcess.exe",
+      "exe": "C:\\Program Files\\Dell\\DTP\\InstrumentationSubAgent\\Dell.TechHub.Instrumentation.UserProcess.exe"
+    },
+    {
+      "pid": 11864,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 11996,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 13884,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 13996,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 14024,
+      "name": "SearchHost.exe",
+      "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe"
+    },
+    {
+      "pid": 14084,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 14500,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 14772,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 15020,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 15296,
+      "name": "ShellExperienceHost.exe",
+      "exe": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe"
+    },
+    {
+      "pid": 15900,
+      "name": "servicehost.exe",
+      "exe": "C:\\Program Files\\McAfee\\WebAdvisor\\servicehost.exe"
+    },
+    {
+      "pid": 16156,
+      "name": "python.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+    },
+    {
+      "pid": 16324,
+      "name": "Dell.Connected.Service.Delivery.exe",
+      "exe": "C:\\Program Files\\Dell\\Dell Connected Service Delivery\\Service\\Dell.Connected.Service.Delivery.exe"
+    },
+    {
+      "pid": 17252,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 17680,
+      "name": "Dell.Connected.Service.Delivery.SubAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\Dell Connected Service Delivery\\SubAgent\\Dell.Connected.Service.Delivery.SubAgent.exe"
+    },
+    {
+      "pid": 17700,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 17716,
+      "name": "Dell.Update.SubAgent.exe",
+      "exe": "C:\\Program Files (x86)\\Dell\\UpdateService\\DCF\\Dell.Update.SubAgent.exe"
+    },
+    {
+      "pid": 17756,
+      "name": "Dell.TechHub.Analytics.SubAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\DTP\\AnalyticsSubAgent\\Dell.TechHub.Analytics.SubAgent.exe"
+    },
+    {
+      "pid": 17764,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 17812,
+      "name": "Dell.TechHub.Instrumentation.SubAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\DTP\\InstrumentationSubAgent\\Dell.TechHub.Instrumentation.SubAgent.exe"
+    },
+    {
+      "pid": 17852,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 17884,
+      "name": "Dell.TechHub.DataManager.SubAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\DTP\\DataManagerSubAgent\\Dell.TechHub.DataManager.SubAgent.exe"
+    },
+    {
+      "pid": 17900,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 17948,
+      "name": "Dell.TechHub.Diagnostics.SubAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\DTP\\DiagnosticsSubAgent\\Dell.TechHub.Diagnostics.SubAgent.exe"
+    },
+    {
+      "pid": 17956,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 18040,
+      "name": "DellOptimizer.exe",
+      "exe": "C:\\Program Files\\Dell\\DellOptimizer\\DellOptimizer.exe"
+    },
+    {
+      "pid": 18084,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 18104,
+      "name": "Dell.Optimizer.DthProxy.exe",
+      "exe": "C:\\Program Files\\Dell\\DellOptimizer\\Dell.Optimizer.DthProxy\\Dell.Optimizer.DthProxy.exe"
+    },
+    {
+      "pid": 18112,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 18164,
+      "name": "TitanCoreSubAgent.exe",
+      "exe": "C:\\Program Files\\Dell\\MyDell\\Components\\MyDellCoreSubAgent\\TitanCoreSubAgent.exe"
+    },
+    {
+      "pid": 18200,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 18244,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 19032,
+      "name": "Dell.D3.WinSvc.exe",
+      "exe": "C:\\Program Files (x86)\\Dell Digital Delivery Services\\Dell.D3.WinSvc.exe"
+    },
+    {
+      "pid": 19128,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 19520,
+      "name": "fontdrvhost.exe",
+      "exe": "C:\\Windows\\System32\\fontdrvhost.exe"
+    },
+    {
+      "pid": 19528,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 19572,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 19816,
+      "name": "msdtc.exe",
+      "exe": "C:\\Windows\\System32\\msdtc.exe"
+    },
+    {
+      "pid": 19876,
+      "name": "py.exe",
+      "exe": "C:\\Windows\\py.exe"
+    },
+    {
+      "pid": 19996,
+      "name": "ipf_helper.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_049e38a37c46edc4\\ipf_helper.exe"
+    },
+    {
+      "pid": 20152,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 20656,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 20900,
+      "name": "Dell.Remediation.Agent.exe",
+      "exe": "C:\\Program Files\\Dell\\Dell Remediation\\Dell.Remediation.Agent.exe"
+    },
+    {
+      "pid": 21044,
+      "name": "RuntimeBroker.exe",
+      "exe": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "pid": 21052,
+      "name": "RtkAudUService64.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_e54441f6cc56b0cb\\RtkAudUService64.exe"
+    },
+    {
+      "pid": 21548,
+      "name": "DellSupportAssistRemedationService.exe",
+      "exe": "C:\\Program Files\\Dell\\SARemediation\\agent\\DellSupportAssistRemedationService.exe"
+    },
+    {
+      "pid": 21940,
+      "name": "winlogon.exe",
+      "exe": "C:\\Windows\\System32\\winlogon.exe"
+    },
+    {
+      "pid": 21968,
+      "name": "SearchProtocolHost.exe",
+      "exe": "C:\\Windows\\System32\\SearchProtocolHost.exe"
+    },
+    {
+      "pid": 22220,
+      "name": "RuntimeBroker.exe",
+      "exe": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "pid": 22288,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 22328,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 22416,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 22608,
+      "name": "RuntimeBroker.exe",
+      "exe": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "pid": 23340,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 23504,
+      "name": "RuntimeBroker.exe",
+      "exe": "C:\\Windows\\System32\\RuntimeBroker.exe"
+    },
+    {
+      "pid": 23964,
+      "name": "mc-fw-host.exe",
+      "exe": "C:\\Program Files\\McAfee\\wps\\1.35.148.1\\mc-fw-host.exe"
+    },
+    {
+      "pid": 24060,
+      "name": "M365Copilot.exe",
+      "exe": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2601.50081.0_x64__8wekyb3d8bbwe\\M365Copilot.exe"
+    },
+    {
+      "pid": 24328,
+      "name": "dasHost.exe",
+      "exe": "C:\\Windows\\System32\\dasHost.exe"
+    },
+    {
+      "pid": 24368,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 24456,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 24720,
+      "name": "taskhostw.exe",
+      "exe": "C:\\Windows\\System32\\taskhostw.exe"
+    },
+    {
+      "pid": 25668,
+      "name": "MoUsoCoreWorker.exe",
+      "exe": "C:\\Windows\\UUS\\Packages\\Preview\\amd64\\MoUsoCoreWorker.exe"
+    },
+    {
+      "pid": 25976,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 26688,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 27368,
+      "name": "vmcompute.exe",
+      "exe": "C:\\Windows\\System32\\vmcompute.exe"
+    },
+    {
+      "pid": 27380,
+      "name": "Widgets.exe",
+      "exe": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe"
+    },
+    {
+      "pid": 27832,
+      "name": "SDXHelper.exe",
+      "exe": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SDXHelper.exe"
+    },
+    {
+      "pid": 28148,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 28192,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 29168,
+      "name": "backgroundTaskHost.exe",
+      "exe": "C:\\Windows\\System32\\backgroundTaskHost.exe"
+    },
+    {
+      "pid": 29396,
+      "name": "mc-extn-browserhost.exe",
+      "exe": "C:\\Program Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe"
+    },
+    {
+      "pid": 29664,
+      "name": "SecurityHealthSystray.exe",
+      "exe": "C:\\Windows\\System32\\SecurityHealthSystray.exe"
+    },
+    {
+      "pid": 30192,
+      "name": "cmd.exe",
+      "exe": "C:\\Windows\\System32\\cmd.exe"
+    },
+    {
+      "pid": 30552,
+      "name": "ApplicationFrameHost.exe",
+      "exe": "C:\\Windows\\System32\\ApplicationFrameHost.exe"
+    },
+    {
+      "pid": 30896,
+      "name": "cmd.exe",
+      "exe": "C:\\Windows\\System32\\cmd.exe"
+    },
+    {
+      "pid": 31120,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 31136,
+      "name": "dasHost.exe",
+      "exe": "C:\\Windows\\System32\\dasHost.exe"
+    },
+    {
+      "pid": 31228,
+      "name": "OneDrive.Sync.Service.exe",
+      "exe": "C:\\Program Files\\Microsoft OneDrive\\25.238.1204.0001\\OneDrive.Sync.Service.exe"
+    },
+    {
+      "pid": 31240,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 31384,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 32540,
+      "name": "RtkAudUService64.exe",
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_e54441f6cc56b0cb\\RtkAudUService64.exe"
+    },
+    {
+      "pid": 32676,
+      "name": "TextInputHost.exe",
+      "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe"
+    },
+    {
+      "pid": 32796,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 32844,
+      "name": "uihost.exe",
+      "exe": "C:\\Program Files\\McAfee\\WebAdvisor\\uihost.exe"
+    },
+    {
+      "pid": 32964,
+      "name": "CrossDeviceResume.exe",
+      "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe"
+    },
+    {
+      "pid": 33164,
+      "name": "powershell.exe",
+      "exe": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+      "pid": 33260,
+      "name": "Dell.UCA.Systray.exe",
+      "exe": "C:\\Program Files\\Dell\\MyDell\\Console\\Dell.UCA.Systray.exe"
+    },
+    {
+      "pid": 33844,
+      "name": "unsecapp.exe",
+      "exe": "C:\\Windows\\System32\\wbem\\unsecapp.exe"
+    },
+    {
+      "pid": 34108,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 34416,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 36548,
+      "name": "pet.exe",
+      "exe": "C:\\Users\\rosev\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python-env-tools\\bin\\pet.exe"
+    },
+    {
+      "pid": 36652,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 36884,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 36984,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 36996,
+      "name": "AppActions.exe",
+      "exe": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe"
+    },
+    {
+      "pid": 37056,
+      "name": "ms-teams.exe",
+      "exe": "C:\\Program Files\\WindowsApps\\MSTeams_25332.1210.4188.1171_x64__8wekyb3d8bbwe\\ms-teams.exe"
+    },
+    {
+      "pid": 37588,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 37932,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 38128,
+      "name": "chrome.exe",
+      "exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+      "pid": 38144,
+      "name": "UserOOBEBroker.exe",
+      "exe": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe"
+    },
+    {
+      "pid": 38280,
+      "name": "ollama.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Ollama\\ollama.exe"
+    },
+    {
+      "pid": 38324,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 38468,
+      "name": "smartscreen.exe",
+      "exe": "C:\\Windows\\System32\\smartscreen.exe"
+    },
+    {
+      "pid": 38532,
+      "name": "powershell.exe",
+      "exe": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+      "pid": 38788,
+      "name": "taskhostw.exe",
+      "exe": "C:\\Windows\\System32\\taskhostw.exe"
+    },
+    {
+      "pid": 38908,
+      "name": "StartMenuExperienceHost.exe",
+      "exe": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe"
+    },
+    {
+      "pid": 40744,
+      "name": "ShellHost.exe",
+      "exe": "C:\\Windows\\System32\\ShellHost.exe"
+    },
+    {
+      "pid": 40888,
+      "name": "mc-vpn.exe",
+      "exe": "C:\\Program Files\\McAfee\\wps\\1.35.148.1\\vpn\\mc-vpn.exe"
+    },
+    {
+      "pid": 40920,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 41404,
+      "name": "conhost.exe",
+      "exe": "C:\\Windows\\System32\\conhost.exe"
+    },
+    {
+      "pid": 41644,
+      "name": "msedgewebview2.exe",
+      "exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.82\\msedgewebview2.exe"
+    },
+    {
+      "pid": 41756,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 42560,
+      "name": "audiodg.exe",
+      "exe": "C:\\Windows\\System32\\audiodg.exe"
+    },
+    {
+      "pid": 43172,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 43376,
+      "name": "Code.exe",
+      "exe": "C:\\Users\\rosev\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "pid": 43680,
+      "name": "mc-neo-host.exe",
+      "exe": "C:\\ProgramData\\McAfee\\wps\\content\\neo-core\\25.9.0.295\\mc-neo-host.exe"
+    },
+    {
+      "pid": 43728,
+      "name": "mongod.exe",
+      "exe": "C:\\Program Files\\MongoDB\\Server\\8.2\\bin\\mongod.exe"
+    },
+    {
+      "pid": 43868,
+      "name": "MoNotificationUx.exe",
+      "exe": "C:\\Windows\\UUS\\Packages\\Preview\\amd64\\MoNotificationUx.exe"
+    },
+    {
+      "pid": 44128,
+      "name": "ctfmon.exe",
+      "exe": "C:\\Windows\\System32\\ctfmon.exe"
+    }
+  ]
+}
